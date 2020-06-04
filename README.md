@@ -15,6 +15,7 @@ dentro de ese .bat
 
 En caso de no pasar argumentos, se ejecutrara el shell que te permitira ejecutar comandos
 
-;    ------> Pipes
-exit ------> quit
+* ;    ------> Pipes
+
+* exit ------> quit
 
